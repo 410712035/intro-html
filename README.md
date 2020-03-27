@@ -1,5 +1,5 @@
 ## Your GitHub Learning Lab Repository for Intro to HTML
-
+<h1>I'm a header 1!</h1>
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
